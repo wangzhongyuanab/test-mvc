@@ -1,0 +1,7 @@
+<beans>
+    <compentScan package="com">
+    </compentScan>
+
+    <view prefix = "/page/" suffix=".html">
+    </view>
+</beans>
